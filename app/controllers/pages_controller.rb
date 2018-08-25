@@ -1,6 +1,9 @@
 class PagesController < ActionController::Base
 
-def home
+def pages
+end
+
+def about
 end
 
 end
